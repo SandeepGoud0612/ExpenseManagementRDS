@@ -9,4 +9,5 @@ public class ExpenseManagementRdsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ExpenseManagementRdsApplication.class, args);
 	}
+	
 }
